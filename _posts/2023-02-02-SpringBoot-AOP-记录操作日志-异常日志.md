@@ -4,7 +4,7 @@ title:      SpringBoot AOP 记录操作日志、异常日志
 subtitle:   SpringBoot AOP 记录操作日志、异常日志
 date:       2022-02-02
 author:     BY
-header-img: img/post-bg-coffee.jpg
+header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:
 - Springboot
