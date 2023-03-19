@@ -1,5 +1,5 @@
 @startuml c4_context
-!includeurl https://raw.githubusercontent.com/xuanye/plantuml-style-c4/master/c4.puml
+!includeurl https://diamondbc.github.io/uml/c4.puml
 ' uncomment the following line and comment the first to use locally
 '!include c4.puml
 

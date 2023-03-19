@@ -88,7 +88,7 @@ deactivate first
 ```
 @startuml 示例类图
 
-!includeurl https://raw.githubusercontent.com/xuanye/plantuml-style-c4/master/core.puml
+!includeurl https://diamondbc.github.io/uml/core.puml
 ' uncomment the following line and comment the first to use locally
 '!include core.puml
 
@@ -127,7 +127,7 @@ IInterfaceA <|-- "IInterfaceA`1"
 
 ```
 @startuml state-sample
-!includeurl https://raw.githubusercontent.com/xuanye/plantuml-style-c4/master/core.puml
+!includeurl https://diamondbc.github.io/uml/core.puml
 ' uncomment the following line and comment the first to use locally
 '!include core.puml
 
@@ -172,7 +172,7 @@ Chunked --> [*] : Ok
 
 ```
 @startuml usecase-sample
-!includeurl https://raw.githubusercontent.com/xuanye/plantuml-style-c4/master/core.puml
+!includeurl https://diamondbc.github.io/uml/core.puml
 ' uncomment the following line and comment the first to use locally
 '!include core.puml
 
@@ -204,7 +204,7 @@ UserCasePackage("checkout","买单") {
 
 ```
 @startuml activity-new-sample
-!includeurl https://raw.githubusercontent.com/xuanye/plantuml-style-c4/master/core.puml
+!includeurl https://diamondbc.github.io/uml/core.puml
 ' uncomment the following line and comment the first to use locally
 '!include core.puml
 
@@ -251,7 +251,7 @@ stop
 
 ```
 @startuml element
-!includeurl https://raw.githubusercontent.com/xuanye/plantuml-style-c4/master/core.puml
+!includeurl https://diamondbc.github.io/uml/core.puml
 ' uncomment the following line and comment the first to use locally
 '!include core.puml
 
@@ -290,7 +290,7 @@ usecase usecase
 ```
 @startuml system-context-diagram
 
-!includeurl https://raw.githubusercontent.com/xuanye/plantuml-style-c4/master/c4_context.puml
+!includeurl https://diamondbc.github.io/uml/c4_context.puml
 ' uncomment the following line and comment the first to use locally
 '!include c4_context.puml
 
@@ -320,7 +320,7 @@ Rel(banking_system, mainframe, "Uses")
 
 ```
 @startuml container-diagram
-!includeurl https://raw.githubusercontent.com/xuanye/plantuml-style-c4/master/c4_container.puml
+!includeurl https://diamondbc.github.io/uml/c4_container.puml
 ' uncomment the following line and comment the first to use locally
 '!include c4_container.puml
 
@@ -370,7 +370,7 @@ Rel_Neighbor(backend_api, banking_system, "Uses", "sync/async, XML/HTTPS")
 
 ```
 @startuml component-diagram
-!includeurl https://raw.githubusercontent.com/xuanye/plantuml-style-c4/master/c4_component.puml
+!includeurl https://diamondbc.github.io/uml/c4_component.puml
 ' uncomment the following line and comment the first to use locally
 '!include c4_component.puml
 
@@ -414,7 +414,7 @@ Rel(ma, accounts, "Uses", "JSON/HTTPS")
 
 ```
 @startuml system-context-extend-diagram
-!includeurl https://raw.githubusercontent.com/xuanye/plantuml-style-c4/master/c4_context.puml
+!includeurl https://diamondbc.github.io/uml/c4_context.puml
 ' uncomment the following line and comment the first to use locally
 '!include c4_context.puml
 
